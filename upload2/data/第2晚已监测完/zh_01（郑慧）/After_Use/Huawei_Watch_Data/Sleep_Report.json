@@ -1,0 +1,62 @@
+{
+    "healthRecords": [
+        {
+            "startTime": 1724944320000000000,
+            "endTime": 1724967720000000000,
+            "dataTypeName": "com.huawei.health.record.sleep",
+            "originalDataCollectorId": "cmF3OmhlYWx0aC5yZWNvcmQuc2xlZXA6Y29tLmh1YXdlaS5oZWFsdGg6p0nnGpGo5_XLyd8X1wDGbKoW-bFO1WqUVhfE9NqVl0k",
+            "value": [
+                {
+                    "fieldName": "fall_asleep_time",
+                    "longValue": 1724944320000
+                },
+                {
+                    "fieldName": "wakeup_time",
+                    "longValue": 1724967720000
+                },
+                {
+                    "fieldName": "light_sleep_time",
+                    "integerValue": 156
+                },
+                {
+                    "fieldName": "deep_sleep_time",
+                    "integerValue": 182
+                },
+                {
+                    "fieldName": "dream_time",
+                    "integerValue": 52
+                },
+                {
+                    "fieldName": "awake_time",
+                    "integerValue": 0
+                },
+                {
+                    "fieldName": "all_sleep_time",
+                    "integerValue": 390
+                },
+                {
+                    "fieldName": "wakeup_count",
+                    "integerValue": 0
+                },
+                {
+                    "fieldName": "deep_sleep_part",
+                    "integerValue": 78
+                },
+                {
+                    "fieldName": "sleep_score",
+                    "integerValue": 83
+                },
+                {
+                    "fieldName": "sleep_efficiency",
+                    "integerValue": 0
+                },
+                {
+                    "fieldName": "sleep_type",
+                    "integerValue": 1
+                }
+            ],
+            "id": "cmF3OmNvbS5odWF3ZWkuaGVhbHRoLnJlY29yZC5zbGVlcDpjb20uaHVhd2VpLmhlYWx0aDpkZWZhdWx0LTE3MjQ5Njc3MjAwMDAwMDAwMDA=",
+            "timeZone": "+0800"
+        }
+    ]
+}

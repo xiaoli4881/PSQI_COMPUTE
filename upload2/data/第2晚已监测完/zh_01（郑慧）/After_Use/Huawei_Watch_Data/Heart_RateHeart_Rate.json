@@ -1,0 +1,903 @@
+{
+    "group": [
+        {
+            "startTime": 1724932800000,
+            "endTime": 1724976000000,
+            "sampleSet": [
+                {
+                    "dataCollectorId": "derived:com.huawei.instantaneous.heart_rate:com.huawei.hwid:merged",
+                    "samplePoints": [
+                        {
+                            "startTime": 1724941800000000000,
+                            "endTime": 1724941860000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 88.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724941860000000000,
+                            "endTime": 1724941920000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 70.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724941920000000000,
+                            "endTime": 1724941980000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 75.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724941980000000000,
+                            "endTime": 1724942040000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 77.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942040000000000,
+                            "endTime": 1724942100000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942100000000000,
+                            "endTime": 1724942160000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 61.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942220000000000,
+                            "endTime": 1724942280000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 67.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942280000000000,
+                            "endTime": 1724942340000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 65.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942340000000000,
+                            "endTime": 1724942400000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 81.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942400000000000,
+                            "endTime": 1724942460000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 64.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942460000000000,
+                            "endTime": 1724942520000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 61.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942580000000000,
+                            "endTime": 1724942640000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942640000000000,
+                            "endTime": 1724942700000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 64.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942700000000000,
+                            "endTime": 1724942760000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 64.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942760000000000,
+                            "endTime": 1724942820000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 64.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942820000000000,
+                            "endTime": 1724942880000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 65.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942880000000000,
+                            "endTime": 1724942940000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724942940000000000,
+                            "endTime": 1724943000000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943000000000000,
+                            "endTime": 1724943060000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943180000000000,
+                            "endTime": 1724943240000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943300000000000,
+                            "endTime": 1724943360000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 68.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943360000000000,
+                            "endTime": 1724943420000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943420000000000,
+                            "endTime": 1724943480000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943540000000000,
+                            "endTime": 1724943600000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943600000000000,
+                            "endTime": 1724943660000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943720000000000,
+                            "endTime": 1724943780000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943780000000000,
+                            "endTime": 1724943840000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943900000000000,
+                            "endTime": 1724943960000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 79.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724943960000000000,
+                            "endTime": 1724944020000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 80.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944020000000000,
+                            "endTime": 1724944080000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 91.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944080000000000,
+                            "endTime": 1724944140000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 69.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944140000000000,
+                            "endTime": 1724944200000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 67.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944200000000000,
+                            "endTime": 1724944260000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944260000000000,
+                            "endTime": 1724944320000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 83.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944320000000000,
+                            "endTime": 1724944380000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 64.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944440000000000,
+                            "endTime": 1724944500000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 61.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944500000000000,
+                            "endTime": 1724944560000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944560000000000,
+                            "endTime": 1724944620000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 64.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944620000000000,
+                            "endTime": 1724944680000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944680000000000,
+                            "endTime": 1724944740000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944740000000000,
+                            "endTime": 1724944800000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724944920000000000,
+                            "endTime": 1724944980000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945160000000000,
+                            "endTime": 1724945220000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 61.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945220000000000,
+                            "endTime": 1724945280000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945340000000000,
+                            "endTime": 1724945400000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 67.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945400000000000,
+                            "endTime": 1724945460000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945460000000000,
+                            "endTime": 1724945520000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945520000000000,
+                            "endTime": 1724945580000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945640000000000,
+                            "endTime": 1724945700000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945700000000000,
+                            "endTime": 1724945760000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945760000000000,
+                            "endTime": 1724945820000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945820000000000,
+                            "endTime": 1724945880000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724945940000000000,
+                            "endTime": 1724946000000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724946060000000000,
+                            "endTime": 1724946120000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 57.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724946120000000000,
+                            "endTime": 1724946180000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 58.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724946180000000000,
+                            "endTime": 1724946240000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 62.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724946660000000000,
+                            "endTime": 1724946720000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 63.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724946720000000000,
+                            "endTime": 1724946780000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 65.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724946780000000000,
+                            "endTime": 1724946840000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 66.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724947260000000000,
+                            "endTime": 1724947320000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 66.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724947320000000000,
+                            "endTime": 1724947380000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724947380000000000,
+                            "endTime": 1724947440000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724947860000000000,
+                            "endTime": 1724947920000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 61.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724947920000000000,
+                            "endTime": 1724947980000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724947980000000000,
+                            "endTime": 1724948040000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 58.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724948460000000000,
+                            "endTime": 1724948520000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724948520000000000,
+                            "endTime": 1724948580000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 60.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724948580000000000,
+                            "endTime": 1724948640000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724949060000000000,
+                            "endTime": 1724949120000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 58.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724949120000000000,
+                            "endTime": 1724949180000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 57.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724949180000000000,
+                            "endTime": 1724949240000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 57.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724949660000000000,
+                            "endTime": 1724949720000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 57.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724949720000000000,
+                            "endTime": 1724949780000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        },
+                        {
+                            "startTime": 1724949780000000000,
+                            "endTime": 1724949840000000000,
+                            "dataTypeName": "com.huawei.instantaneous.heart_rate",
+                            "originalDataCollectorId": "raw:com.huawei.instantaneous.heart_rate:com.huawei.health:HUAWEI:HUAWEI WATCH D:1578333727:1578333727",
+                            "value": [
+                                {
+                                    "fieldName": "bpm",
+                                    "floatValue": 59.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
